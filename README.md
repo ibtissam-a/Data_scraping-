@@ -3,13 +3,13 @@
 
 <h2> Summary</h2>
 
-This project demonstrates the power and flexibility of ** web scraping using Python's **BeautifulSoup library. The objective was to automate the data collection process from various web sources, efficiently parsing HTML content to extract valuable information. 
+This project demonstrates the power and flexibility of ** web scraping using Python's **BeautifulSoup** library. The objective was to automate the data collection process from various web sources, efficiently parsing HTML content to extract valuable information. 
 BeautifulSoup proved to be an essential tool for this task, offering a straightforward API to navigate, search, and modify the parse tree.
 
 <h2> Key Features:</h2>
 
-Data Extraction: Utilized BeautifulSoup to parse HTML content and extract specific data elements.
-Automation: Implemented a script to loop through multiple web pages, collecting data without manual intervention.
+**Data Extraction:** Utilized BeautifulSoup to parse HTML content and extract specific data elements.
+**Automation:** Implemented a script to loop through multiple web pages, collecting data without manual intervention.
 Data Storage: Stored the scraped data in a structured format (CSV) for easy access and analysis.
 Scalability: Designed the script to handle large datasets and update data regularly through scheduling.
 Importance of BeautifulSoup:
